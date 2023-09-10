@@ -1,0 +1,32 @@
+#nav1 {
+    border: 1px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color:lightblue;
+    color: white;
+    padding: 6px;
+}
+h1{
+    text-align: center;
+}   
+ 
+a {
+    text-decoration: none;
+    color: darkblue;
+    font-size: 20px;
+}  
+
+nav{
+    border: 1px solid;
+}
+
+
+#n2{
+    border: 1px solid;
+    border-color: blue;
+    background-color: antiquewhite;
+}
+
+.back{
+    text-align: center;
+}

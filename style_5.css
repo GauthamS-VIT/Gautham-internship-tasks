@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+}
+#black{
+    background-color: black;
+    font-size: 50px;
+}
+
+#white{
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+
+.container{
+    color: blueviolet;
+    padding-left: 200px;
+    text-align:justify;  
+}
+
+table{
+    float: left;
+}
+
+.back{
+    text-align: center;
+}

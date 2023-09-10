@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+label{
+    padding-right: 240px;
+}
+
+input{
+    width: 300px;
+}
+
+
+#b1{
+    width: 310px;
+    color: aliceblue;
+    background-color: rgb(16, 158, 47);
+}
+
+
+.c2{
+    padding-left: 780px;
+}
+
+.c3{
+    background-color: rgb(243, 239, 239);
+    width: 350px;
+}
+
+
+a{
+    padding-left: 170px;
+}
+
+.back{
+    text-align: center;
+}
